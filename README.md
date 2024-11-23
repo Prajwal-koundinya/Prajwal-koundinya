@@ -15,9 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-koundinya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-koundinya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 My GitHub Activity Graph
-[![Prajwal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal-koundinya&bg_color=0d1117&color=fefefe&line=purple&point=f9f9f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajwal-koundinya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
