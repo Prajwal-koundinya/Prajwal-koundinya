@@ -1,4 +1,3 @@
-
 <h1> Hi👋 I’m Prajwal Koundinya </h1>
 <br><br>A software Engineering student with a profound enthusiasm for AI, computational neuroscience, and HCI<br><br>🔭 I’m passionate about AI, Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools.<br>👯 I’m looking to collaborate on creating web applications, machine learning, and building AI tools.<br>🌱 I’m currently learning Flutter, TensorFlow, React Native, and Deep Learning.<br>💬 Ask me about Python, front-end development, and designing.
 
@@ -16,6 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-koundinya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-koundinya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 My GitHub Activity Graph
+[![Prajwal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal-koundinya&bg_color=0d1117&color=fefefe&line=purple&point=f9f9f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajwal-koundinya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -24,7 +26,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prajwal-koundinya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
