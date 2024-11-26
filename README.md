@@ -1,6 +1,6 @@
 <h1> Hi👋 I’m Prajwal Koundinya </h1>
 <br><br>A software Engineering student with a profound enthusiasm for AI, computational neuroscience, and HCI<br><br>🔭 I’m passionate about AI, Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools.<br>👯 I’m looking to collaborate on creating web applications, machine learning, and building AI tools.<br>🌱 I’m currently learning Flutter, TensorFlow, React Native, and Deep Learning.<br>💬 Ask me about Python, front-end development, and designing.
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
 ---
 [![](https://visitcount.itsvg.in/api?id=prajwal-koundinya&icon=0&color=0)](https://visitcount.itsvg.in)
 
