@@ -1,18 +1,16 @@
 [![MasterHead](https://img.freepik.com/premium-photo/digital-thinking-neural-networks-artificial-intelligence-machine-science-banner-made-with-generative-ai_155027-3430.jpg?w=1380)](https://github.com/Prajwal-koundinya)
 
 <h1> <center> Hii👋 I’m Prajwal Koundinya </center> </h1>
-<br><br>
+<br>
 A software Engineering student building projects with resolve, having a profound enthusiasm for AI, computational neuroscience, and ML 
 <br>
-
 🔭 I’m passionate about AI, Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools.  <br><br>
 👯 I’m looking to collaborate on creating web applications, machine learning, and building AI tools.   <br><br>
 🌱 I’m currently learning Flutter, TensorFlow, React Native, and Deep Learning.   <br><br>
 💬 Ask me about Python, front-end development, and designing.   <br><br>
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prajwal-koundinya&icon=5&color=10)](https://visitcount.itsvg.in)
+view counter  [![](https://visitcount.itsvg.in/api?id=prajwal-koundinya&icon=5&color=10)](https://visitcount.itsvg.in)
 
 ---
 
@@ -25,7 +23,6 @@ A software Engineering student building projects with resolve, having a profound
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </p>
-
 
 ---
 
@@ -46,6 +43,8 @@ A software Engineering student building projects with resolve, having a profound
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+---
+
 ### 🔥 GitHub Streak
 
 <p align="center">
@@ -62,7 +61,7 @@ A software Engineering student building projects with resolve, having a profound
 
 ![Prajwal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-koundinya&custom_title=Prajwal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prajwal-koundinya&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
