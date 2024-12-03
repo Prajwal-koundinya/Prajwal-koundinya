@@ -5,7 +5,7 @@
 A software Engineering student with a profound enthusiasm for AI, computational neuroscience, and HCI  
 <br><br>
 
-[![](https://visitcount.itsvg.in/api?id=Prajwal-koundinya&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=prajwal-koundinya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
