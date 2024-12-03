@@ -4,6 +4,11 @@
 <br><br>
 A software Engineering student with a profound enthusiasm for AI, computational neuroscience, and HCI  
 <br><br>
+
+[![](https://visitcount.itsvg.in/api?id=Prajwal-koundinya&icon=5&color=10)](https://visitcount.itsvg.in)
+
+
+
 🔭 I’m passionate about AI, Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools.  <br><br>
 👯 I’m looking to collaborate on creating web applications, machine learning, and building AI tools.   <br><br>
 🌱 I’m currently learning Flutter, TensorFlow, React Native, and Deep Learning.   <br><br>
@@ -12,11 +17,16 @@ A software Engineering student with a profound enthusiasm for AI, computational 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prajwal-koundinya&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-kowndinya-7506b4268) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27652213/prajwal-kowndinya)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwal-kowndinya-7506b4268/0" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/27652213/prajwal-kowndinya" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
+
 
 ---
 
@@ -37,16 +47,30 @@ A software Engineering student with a profound enthusiasm for AI, computational 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prajwal-koundinya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-koundinya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-koundinya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔥 GitHub Streak
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=prajwal-koundinya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-koundinya&theme=highcontrast&hide_border=true" alt="Prajwal's GitHub Streak" />
+</p>
 
-### ✍ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left">
+  <a> 
+    <img alt="Prajwal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Prajwal-koundinya&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+    <img alt="Prajwal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+    <br/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=prajwal-koundinya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Prajwal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-koundinya&custom_title=Prajwal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prajwal-koundinya&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Prajwal-koundinya&limit=5&theme=dark&combine_all_yearly_contributions=true)
