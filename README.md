@@ -3,7 +3,9 @@
 <h1> <center> Hii👋 I’m Prajwal Koundinya </center> </h1>
 <br>
 A software Engineering student building projects with resolve, having a profound enthusiasm for AI, computational neuroscience, and ML 
-<br>
+<br><br>
+
+
 🔭 I’m passionate about AI, Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools.  <br><br>
 👯 I’m looking to collaborate on creating web applications, machine learning, and building AI tools.   <br><br>
 🌱 I’m currently learning Flutter, TensorFlow, React Native, and Deep Learning.   <br><br>
