@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/Prajwal-koundinya/<repo-name>/blob/main/assets/banner.png?raw=true)
+[![MasterHead](https://github.com/Prajwal-koundinya/<repo-name>/blob/main/assets/banner.png?raw=true)](https://drive.google.com/uc?export=view&id=1QUGEgcoPkMckJA0RwvnYNrqaRQakVOw1
+)
 
 
 <h1> <center> Hii👋 I’m Prajwal Koundinya </center> </h1>
