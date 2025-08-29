@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Prajwal-koundinya/<repo-name>/blob/main/assets/banner.svg?raw=true)
+![MasterHead](https://github.com/Prajwal-koundinya/<repo-name>/blob/main/assets/banner.png?raw=true)
 
 
 <h1> <center> Hii👋 I’m Prajwal Koundinya </center> </h1>
