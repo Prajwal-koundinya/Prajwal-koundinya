@@ -1,16 +1,16 @@
-[![MasterHead](https://img.freepik.com/premium-photo/digital-thinking-neural-networks-artificial-intelligence-machine-science-banner-made-with-generative-ai_155027-3430.jpg?w=1380)](https://github.com/Prajwal-koundinya)
+[![MasterHead](https://drive.google.com/file/d/1QUGEgcoPkMckJA0RwvnYNrqaRQakVOw1/view?usp=sharing)](https://github.com/Prajwal-koundinya)
 
 <h1> <center> Hii👋 I’m Prajwal Koundinya </center> </h1>
 <br>
  <h2> A software Engineering student building projects with resolve, having a profound enthusiasm for AIML, computational neuroscience, and HCI <h2/> <br>
 
-🔭 I'm passionate about AI and Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools. <br><br>
+🔭 I'm passionate about AI and Machine Learning, and Cognitive Neuroscience, currently working on Python-based AI projects and data visualization tools. <br>
 
-👥 I'm looking to collaborate on creating web applications, machine learning, and building AI tools. <br><br>
+👥 I'm looking to collaborate on creating web applications, machine learning, and building AI tools. <br>
 
-🌱 I'm currently learning Flutter, MLOps, React Native, and Deep Learning. <br><br>
+🌱 I'm currently learning Flutter, MLOps, React Native, and Deep Learning. <br>
 
-💬 Ask me about Python, front-end development, and designing. <br><br>
+💬 Ask me about Python, front-end development, and designing. <br>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=prajwal-koundinya&icon=5&color=10)](https://visitcount.itsvg.in)
