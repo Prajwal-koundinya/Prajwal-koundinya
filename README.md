@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1-c729vqaumDDG45s35ZDoXUXILuV2qOS/view?usp=sharing
+![MasterHead](https://drive.google.com/uc?export=view&id=1-c729vqaumDDG45s35ZDoXUXILuV2qOS)
 
 
 <h1> <center> Hii👋 I’m Prajwal Koundinya </center> </h1>
