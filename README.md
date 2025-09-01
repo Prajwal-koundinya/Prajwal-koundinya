@@ -10,9 +10,6 @@
   Software Engineering Student | AIML | Computational Neuroscience | HCI Enthusiast
 </h3>
 
-<div align="center">
-  <img alt="Coder GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350px" />
-</div>
 
 ---
 
