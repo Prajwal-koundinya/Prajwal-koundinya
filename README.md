@@ -75,16 +75,16 @@
 
 ###
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-koundinya&theme=radical&hide_border=false" height="180" alt="streak graph"  />
-</div>
+  
+![](https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Prajwal-koundinya&theme=radical&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="180" alt="trophy graph"  />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-koundinya&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 ###
