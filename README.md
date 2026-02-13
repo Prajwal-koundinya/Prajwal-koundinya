@@ -90,7 +90,14 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://ghchart.rshah.org/2E86C1/Prajwal-koundinya" />
+<div align="center">
+  <img 
+    src="https://ghchart.rshah.org/ff0000/Prajwal-koundinya" 
+    alt="Prajwal's GitHub Contributions"
+    width="900"
+    style="background-color:#000000; padding:20px; border-radius:10px;"
+  />
+</div>
 
 ###
 
