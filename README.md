@@ -14,28 +14,23 @@
 
 ## 💫 About Me
 
-```python
-class PrajwalKowndinya:
-    def __init__(self):
-        self.username = "Prajwal-kowndinya"
-        self.role = "AI & Data Science Explorer"
-        self.currently_exploring = ["Explainable AI", "Computer Vision"]
-        self.collaboration = ["Research-driven projects", "AI-powered apps", "Web solutions"]
-        self.experimenting_with = ["PyTorch", "Mobile Apps", "Modern DL Frameworks"]
-        self.expertise = ["Python", "Data Science", "ML Models", "Real-world Solutions"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<div align="center">
 
-me = PrajwalKowndinya()
-me.say_hi()
-```
+🔭 **Currently Exploring:** Explainable AI & Computer Vision Applications  
+👯 **Open to Collaborate:** Research-driven projects • AI-powered apps • Impactful web solutions  
+🌱 **Experimenting With:** PyTorch • Mobile Apps • Modern DL Frameworks  
+💬 **Ask Me About:** Python • Data Science • ML Models • Real-world Problem Solving  
+
+</div>
 
 ###
 
 ## 🌐 Connect With Me
 
 <div align="center">
+  
+### 🌍 Visit my portfolio: [prajwal-kowndinya-portfolio.vercel.app](https://prajwal-kowndinya-portfolio.vercel.app/)
+  
   <a href="https://linkedin.com/in/prajwal-kowndinya-7506b4268" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -83,13 +78,13 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="170" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Prajwal-koundinya&theme=radical&hide_border=false" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-koundinya&theme=radical&hide_border=false" height="180" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Prajwal-koundinya&theme=radical&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="170" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Prajwal-koundinya&theme=radical&column=3&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="180" alt="trophy graph"  />
 </div>
 
 ###
@@ -133,7 +128,9 @@ me.say_hi()
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Prajwal-koundinya&icon=2&color=12" alt="visit count" />
+  
+[![](https://visitcount.itsvg.in/api?id=Prajwal-koundinya&icon=2&color=12)](https://visitcount.itsvg.in)
+
 </div>
 
 ###
