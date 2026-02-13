@@ -90,7 +90,7 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Contributions](https://ghchart.rshah.org/Prajwal-koundinya)
+<img src="https://ghchart.rshah.org/2E86C1/Prajwal-koundinya" />
 
 ###
 
