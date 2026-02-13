@@ -90,12 +90,11 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<div align="center" style="background-color:#000000; padding:25px; border-radius:12px;">
   <img 
     src="https://ghchart.rshah.org/ff0000/Prajwal-koundinya" 
     alt="Prajwal's GitHub Contributions"
-    width="900"
-    style="background-color:#000000; padding:20px; border-radius:10px;"
+    width="100%"
   />
 </div>
 
