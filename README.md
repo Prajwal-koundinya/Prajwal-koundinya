@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🔭 **Currently Exploring:** Explainable AI & Computer Vision Applications  
+🔭 **Currently Exploring:** Explainable AI & Computer Vision Applications and frontend web development  
 👯 **Open to Collaborate:** Research-driven projects • AI-powered apps • Impactful web solutions  
 🌱 **Experimenting With:** PyTorch • Mobile Apps • Modern DL Frameworks  
 💬 **Ask Me About:** Python • Data Science • ML Models • Real-world Problem Solving  
