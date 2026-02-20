@@ -94,11 +94,14 @@
 
 ## 📈 Contribution Graph
 
-<div align="center" style="background-color:#000000; padding:25px; border-radius:12px;">
+<div align="center">
   <img 
-    src="https://ghchart.rshah.org/ff0000/Prajwal-koundinya" 
-    alt="Prajwal's GitHub Contributions"
-    width="100%"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prajwal-koundinya&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true&bg_color=000000"
+    height="170"
   />
 </div>
 
