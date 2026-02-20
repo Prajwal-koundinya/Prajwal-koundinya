@@ -76,7 +76,7 @@
 
 <div align="center">
   <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Prajwal-koundinya&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+    src="https://github-contributor-stats.vercel.app/api?username=Prajwal-koundinya&limit=5&combine_all_yearly_contributions=true" 
     alt="Top Contributed Repositories"
     width="900"
   />
