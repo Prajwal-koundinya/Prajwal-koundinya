@@ -75,15 +75,8 @@
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prajwal-koundinya&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true&bg_color=000000"
-    height="170"
-  />
-</div>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Prajwal-koundinya&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="top repos"  />
+</div> 
 
 ###
 
