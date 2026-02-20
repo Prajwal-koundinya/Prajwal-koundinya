@@ -76,12 +76,8 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true&bg_color=000000"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true" 
+    width="450"
   />
 </div>
 
