@@ -43,9 +43,6 @@
   <a href="https://www.youtube.com/@prajwalkowndinya6601" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://in.pinterest.com/prajwalkowndinya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=E60023&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="pinterest logo"  />
-  </a>
 </div>
 
 ###
