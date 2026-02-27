@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey 👋 I'm Prajwal Kowndinya</h1>
 
-<h3 align="center">🌟 AI Enthusiast | Data Science Explorer | Building Meaningful Tech 🌟</h3>
+<h3 align="center">🌟 AIML Enthusiast | Data Science Explorer | Building Meaningful Tech 🌟</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Exploring+Explainable+AI;Building+CV+Applications;Solving+Real-World+Problems;Data+Science+%26+ML+Enthusiast" alt="Typing SVG" />
