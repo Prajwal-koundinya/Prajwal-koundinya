@@ -71,15 +71,9 @@
 
 ## 🔝 Top Contributed Repositories
 
-<a href="https://github.com/Prajwal-koundinya/portfolio-v1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=portfolio-v1&theme=radical&cache_seconds=1" alt="Portfolio v1" />
-</a>
-<a href="https://github.com/Prajwal-koundinya/CricBase-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=CricBase-App&theme=radical&cache_seconds=1" alt="CricBase App" />
-</a>
-<a href="https://github.com/Prajwal-koundinya/f1-visualization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=f1-visualization&theme=radical&cache_seconds=1" alt="F1 Visualization" />
-</a>
+> 🚀&nbsp; **[Portfolio v1](https://github.com/Prajwal-koundinya/portfolio-v1)** — my personal developer portfolio  
+> 🏏&nbsp; **[CricBase App](https://github.com/Prajwal-koundinya/CricBase-App)** — a cricket stats & database app  
+> 🏎️&nbsp; **[F1 Visualization](https://github.com/Prajwal-koundinya/f1-visualization)** — F1 race data, visualized
 
 ###
 
