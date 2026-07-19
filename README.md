@@ -61,12 +61,11 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prajwal-koundinya&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&v=1)<br/>
+![](https://streak-stats.demolab.com/?user=Prajwal-koundinya&theme=radical&hide_border=false&v=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1)
 
 </div>
-
 ###
 
 ## 🔝 Top Contributed Repositories
@@ -89,11 +88,11 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prajwal-koundinya&show_icons=true&theme=dark&hide_border=true&bg_color=000000"
+    src="https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&v=1"
     height="170"
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true&bg_color=000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true&bg_color=000000&v=1"
     height="170"
   />
 </div>
