@@ -71,8 +71,16 @@
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Prajwal-koundinya&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="top repos"  />
-</div> 
+  <a href="https://github.com/Prajwal-koundinya/portfolio-v1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=portfolio-v1&theme=radical&v=1" alt="Portfolio v1" />
+  </a>
+  <a href="https://github.com/Prajwal-koundinya/CricBase-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=CricBase-App&theme=radical&v=1" alt="CricBase App" />
+  </a>
+  <a href="https://github.com/Prajwal-koundinya/f1-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=f1-visualization&theme=radical&v=1" alt="F1 Visualization" />
+  </a>
+</div>
 
 ###
 
