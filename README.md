@@ -72,13 +72,13 @@
 
 <div align="center">
   <a href="https://github.com/Prajwal-koundinya/portfolio-v1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=portfolio-v1&theme=radical&v=1" alt="Portfolio v1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=portfolio-v1&theme=radical&cache_seconds=86400" alt="Portfolio v1" />
   </a>
   <a href="https://github.com/Prajwal-koundinya/CricBase-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=CricBase-App&theme=radical&v=1" alt="CricBase App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=CricBase-App&theme=radical&cache_seconds=86400" alt="CricBase App" />
   </a>
   <a href="https://github.com/Prajwal-koundinya/f1-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=f1-visualization&theme=radical&v=1" alt="F1 Visualization" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prajwal-koundinya&repo=f1-visualization&theme=radical&cache_seconds=86400" alt="F1 Visualization" />
   </a>
 </div>
 
@@ -96,12 +96,9 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Prajwal-koundinya&show_icons=true&theme=dark&hide_border=true&bg_color=000000&v=1"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&layout=compact&theme=dark&hide_border=true&bg_color=000000&v=1"
-    height="170"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-koundinya&theme=radical&hide_border=true&bg_color=000000"
+    width="100%"
+    alt="Contribution Activity Graph"
   />
 </div>
 
