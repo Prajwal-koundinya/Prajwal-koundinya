@@ -67,7 +67,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-koundinya&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1)
 
 </div>
-###
+
 
 ## 🔝 Top Contributed Repositories
 
@@ -76,6 +76,8 @@
 > 🏎️&nbsp; **[F1 Visualization](https://github.com/Prajwal-koundinya/f1-visualization)** — F1 race data, visualized
 
 ###
+
+--- 
 
 ## ✍️ Random Dev Quote
 
